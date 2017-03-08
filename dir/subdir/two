@@ -1,7 +1,9 @@
-What is a backend server? What are 3 good resources for understanding servers? What do you specifically like about those resources?
-
 What is an SQL versus a noSQL database? Why is one preferable to another? Find 2 good blog entries or courses on how to get started with SQL and tell me what you like about them.
+SQL databases like relational and analytical are "older" and more structured. No sequal databases are newer and were started by companies that have huge amounts of data to store. These kind are less structured. 
+Advantages of relational SQL databases: they are easy to join, have an organized structure, has built in error checking, can be easily updated, stable features (not changing all the time), is more "all or nothing."
+Advantages of NoSQL: they are faster, flexible, and easy to get up and running. 
+NoSQL is less secure compared to SQL, but it is more beneficial when large amounts of data need to be stored. I seems to me from my research that SQL is reliable and possibly a better option for smaller companies/projects but NoSQL has more benefits for larger amounts of data.
+https://msdn.microsoft.com/en-us/library/ms345332.aspx
+https://www.youtube.com/watch?v=7Vtl2WggqOg
+I like the first tutorial because it gives clear steps and provides picture of screenshots to show what your page should look like. I like the youtube video because I am just a fan of video tutorials in general, but I particularly like this one as it starts from the VERYYY basics of SQL before getting right into the tutorial part.
 
-Where do you go to find help on javascript questions? Let’s say you want to find information on how promises work in ES6. What does that mean? Make a list of at least 3 resources you consulted in finding that answer.
-
-Imagine you are working on a problem with using git to merge files from another contributor on your project. What resources can you find to help you understand git merge? On your system, what editor gets launched to show merges? How do you use it to edit text, save, and exit?
