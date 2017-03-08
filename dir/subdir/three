@@ -1,1 +1,7 @@
+Where do you go to find help on javascript questions? Let’s say you want to find information on how promises work in ES6. What does that mean? Make a list of at least 3 resources you consulted in finding that answer.
+I usually google a questions and click on a number of links until I find an easy to understand tutorial or blog explaining my question. I often end up on stack overflow.
+A promise represents the eventual result of some operation or request. They have "pending" states, which can be changed to "fulfilled" or "resolved." You can also reject them. 
+http://www.datchley.name/es6-promises/
+http://www.2ality.com/2014/10/es6-promises-api.html
+https://scotch.io/tutorials/javascript-promises-for-dummies
 
